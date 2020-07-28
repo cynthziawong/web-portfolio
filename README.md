@@ -1,6 +1,21 @@
 # Portfolio Link
 https://cynthziawong.github.io/web-portfolio/
 
+# Sections
+- About Me
+- Design & Research
+- Publication & Studies
+- Projects
+  - Curated Works
+  - Visualizations
+  - Class Works
+- CV
+  - Classes
+- Contact Me
+  - Linkedin
+  - Email
+  - Pinterest
+
 
 ## Documentation
 
