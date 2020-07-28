@@ -2,7 +2,7 @@
 https://cynthziawong.github.io/web-portfolio/
 
 
-# Documentation
+## Documentation
 
 #### Jekyll
 
