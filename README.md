@@ -12,6 +12,7 @@ https://cynthziawong.github.io/web-portfolio/
 - CV
   - Classes
 - Contact Me
+  - Services (Expertise)
   - Linkedin
   - Email
   - Pinterest
